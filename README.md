@@ -118,7 +118,7 @@ NOTE: The 1st node of a linked list is called the head.
 
 The last node of a linked list is called the tail and its pointer points to null or none depending on the programming language. So in this case the 2nd node is also the tail.
 
-NOTE: In our example we used singly linked lists, also read about double linked lists
+NOTE: In our example we used singly linked lists, also read about doubly linked lists
 
 ## Technologies
 
