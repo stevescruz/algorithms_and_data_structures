@@ -4,7 +4,7 @@ Singly Linked List
 Methods:
 -search: index, indexOf, getHead, getTail
 -set: set, setHead, setTail
--insert: #addAt, append, preppend,
+-insert: addAt, append, preppend,
 -remove: removeAt, remove, removeHead, removeTail, clear
 -helper: isEmpty, size, print
 */
