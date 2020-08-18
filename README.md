@@ -36,7 +36,7 @@ By studying the Introduction to Algorithms book (Thomas H. Cormen, Charles E. Le
   - [ ] Dynamic Array
 - [ ] Linked List
   - [x] Singly Linked List
-  - [] Doubly Linked List
+  - [ ] Doubly Linked List
 - [ ] Hash Table
 - [ ] Stack
 - [ ] Queue
